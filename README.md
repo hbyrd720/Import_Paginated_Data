@@ -1,5 +1,5 @@
-#Importing Paginated Data from Gemini public api
-##Heather Byrd, 05/03/2021
+# Importing Paginated Data from Gemini Public API
+### Heather Byrd, 05/03/2021
 
 Required Inputs: none
 
